@@ -2,12 +2,12 @@
 //
 
 #include "pch.h"
+#include "sol.h"
 #include <iostream>
 
 int main()
 {
-    std::cout << "Hello World!\n"; 
-
+	std::cout << "Hi" << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
